@@ -1,15 +1,13 @@
-# Speechmatics dotfiles
+# Dotfiles
 
-This repo provides a minimal working set of dotfiles for new starters at Speechmatics, it is not intended to be exhaustive. Suggestions for useful additions are welcome.
-
-Notable omissions include any vim/nvim setup - speak to Ed / Sam if you want to learn more about that.
+This repo provides a minimal working set of dotfiles, originally from when George was a new starter at Speechmatics; it is not intended to be exhaustive. Suggestions for useful additions are welcome.
 
 ## Installation
 
 ### Step 1
 Clone this repo
 ```bash
-git clone git@gitlab1.speechmatics.io:aml/sm-dotfiles.git ~/git/dotfiles
+git clone git@github.com:gealodge/dotfiles.git
 ```
 you probably will also want to push this repo to your personal github
 
